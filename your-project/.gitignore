@@ -1,3 +1,4 @@
+Datasets/*
 
 # Created by https://www.gitignore.io/api/macos,pycharm,jupyternotebook,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=macos,pycharm,jupyternotebook,visualstudiocode
@@ -60,6 +61,8 @@ Temporary Items
 .idea/**/dynamic.xml
 .idea/**/uiDesigner.xml
 .idea/**/dbnavigator.xml
+
+.
 
 # Gradle
 .idea/**/gradle.xml
